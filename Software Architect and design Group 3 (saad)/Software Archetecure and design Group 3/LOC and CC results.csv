@@ -1,0 +1,16 @@
+project_name,github_link,lines_of_code,cyclomatic_complexity
+flask,https://github.com/pallets/flask,17604,1.1142217245240762
+requests,https://github.com/requests/requests,11206,1.1203007518796992
+sqlmap,https://github.com/sqlmapproject/sqlmap,78726,1.3682616596002424
+fail2ban,https://github.com/fail2ban/fail2ban,33892,1.2228637413394918
+s3cmd,https://github.com/s3tools/s3cmd,9351,1.3902439024390243
+python-twitter,https://github.com/bear/python-twitter,11428,1.04221635883905
+system-design-primer,https://github.com/donnemartin/system-design-primer,1062,1.0147058823529411
+models,https://github.com/tensorflow/models,603549,1.109448127925117
+django,https://github.com/django/django,478070,1.0538086048359632
+scrapy,https://github.com/scrapy/scrapy,67449,1.0479788439743105
+fastapi,https://github.com/tiangolo/fastapi,112201,1.029030910609858
+faceswap,https://github.com/deepfakes/faceswap,85727,1.1346583850931677
+rich,https://github.com/Textualize/rich,39312,1.1538461538461537
+Real-Time-Voice-Cloning,https://github.com/CorentinJ/Real-Time-Voice-Cloning,6526,1.1647058823529413
+pandas,https://github.com/pandas-dev/pandas,620262,1.131963742225751
